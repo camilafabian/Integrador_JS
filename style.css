@@ -1,0 +1,59 @@
+.todo{
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  font-family: "Rubik", sans-serif;
+}
+
+.mainDivHeader{
+  height: 8vh;
+  background-color: rgb(233, 50, 126);
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+
+}
+.divHeaderContent{
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.4rem;
+
+}
+.inputHeader{
+  border-radius: 0.4rem;
+  border: none;
+  padding: 0.4rem;
+  outline: none;
+  height: 2vh;
+  width: 20vw;
+  font-size: 1.7vh;
+
+}
+.buttonSearch{
+  border: solid 1px white;
+  background-color: transparent;
+  border-radius: 0.4rem;
+  padding: 0.4rem;
+  width: 14vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+
+
+}
+.buttonSearch:hover{
+  cursor: pointer;
+
+}
+.buttonAdd{
+  width: 20vw;
+  border-radius: 0.4rem;
+  padding: 0.4rem;
+  border: solid 1px white;
+  background-color: transparent;
+  color: white;
+
+}
