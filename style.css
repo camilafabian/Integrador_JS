@@ -5,7 +5,7 @@
   font-family: "Rubik", sans-serif;
 }
 
-/*Aca empieza el header*/
+/*Header*/
 header{
   width: 100%;
   height: 10vh;
@@ -69,10 +69,7 @@ header button:hover{
   background-color:white;
   color: #1e3f72;
 }
-/*Aca termina el header*/
-
-
-/*Aca empieza el main*/
+/*Main*/
 .container_view{
   display: grid;
   grid-template-columns: 0.2fr 0.8fr;
@@ -81,10 +78,8 @@ header button:hover{
   background-color: brown;
   height: 92vh;
 }
-/*Aca temina el main*/
 
-
-/*Aca empieza el store*/
+/*Store*/
 .containerTargetItem{
   width: 20vw;
   height: 35vh;
@@ -142,9 +137,8 @@ header button:hover{
   grid-template-columns: repeat(3, 1fr);
   gap: 2vh;
 }
-/*Aca termina el store*/
 
-/*Aca va el ListAside*/
+/*ListAside*/
 .listAside{
   display: flex;
   flex-direction: column;
@@ -184,7 +178,7 @@ header button:hover{
   color: white;
 }
 
-/* esta es la ventana pop up*/
+/*Pop up*/
 .popupContainer_principal{
   width: 100vw;
   height: 100vh;
