@@ -26,7 +26,7 @@ El proyecto está construido utilizando herramientas web estándar:
 
 Si deseas ejecutar el proyecto en tu entorno local, sigue estas indicaciones:
 
-1. **Clona el repositorio:
+1. **Clona el repositorio:**
    ```bash
    git clone https://github.com/camilafabian/Integrador_JS
 
@@ -34,12 +34,12 @@ Si deseas ejecutar el proyecto en tu entorno local, sigue estas indicaciones:
    ```bash
    cd IntegradorJS
 
-3. ** Ejecuta con node.
+3. **Ejecuta con node.**
    ```bash
    npm run dev
 
    
-##Modo de Uso
+## Modo de Uso
 - La aplicación ofrece varias opciones para la gestión de productos y pedidos:
 
 ### Buscar Productos: 
